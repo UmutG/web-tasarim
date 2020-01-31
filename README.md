@@ -10,9 +10,18 @@ Bu sayfa, Udemy'de yayınlanan "Web Tasarımının Temelleri" kursu için hazır
 ## Kaynaklar
 
 * [W3Schools](https://w3schools.com)
-* [GitHub Pages ile site oluşturma](https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site)
-* [GitHub Pages ile site oluşturma](https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site)
-* [GitHub Pages ile site oluşturma](https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site)
-* [GitHub Pages ile site oluşturma](https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site)
+* [Smashing Magazine](https://www.smashingmagazine.com/)
+* [Stack Overflow](https://stackoverflow.com/)
+* [Pluralsight](https://www.pluralsight.com/)
+* [Codecademy](https://www.codecademy.com/)
+
+## Geliştirme Ortamları
+
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Atom](https://atom.io/)
+
+## Web Hosting & Domain
+
+* [DigitalOcean](https://www.digitalocean.com/)
 * [GitHub Pages ile site oluşturma](https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site)
 
