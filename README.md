@@ -1,6 +1,6 @@
 # Web Tasarımın Temelleri
 
-Udemy web tasarımının temelleri kursu için hazırlanmıştır.
+Bu sayfa, Udemy'de yayınlanan "Web Tasarımının Temelleri" kursu için hazırlanmıştır.
 
 ## Kaynaklar
 
