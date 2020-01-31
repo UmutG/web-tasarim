@@ -1,4 +1,6 @@
-# Web Tasarım Dersi Notları
+# Web Tasarımın Temelleri
+
+Udemy web tasarımının temelleri dersi için hazırlanmıştır.
 
 ## Kaynaklar
 
