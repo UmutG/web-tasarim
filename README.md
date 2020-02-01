@@ -4,9 +4,8 @@ Bu sayfa, Udemy'de yayınlanan "Web Tasarımının Temelleri" kursu için hazır
 
 Proje dosyalarına [bu linkten](https://github.com/hknyldrm/web-tasarim) erişebilirsiniz. Ayrıca, yayıncı [Hakan Yıldırım](http://hakanyildirim.com/)'ın kişisel web sitesini de ziyaret edebilirsiniz.
 
-Bu kitapta, birçok kaynaktan derlediğim bilgileri uzun yıllar boyu edindiğim deneyimlerle bir araya getirmeye çalıştım. Web tasarımı ve programlama dersleri verirken Türkçe kaynak eksikliğinden yakınan biri olarak ilgililere fayda sağlayacağı düşüncesindeyim.
-Basit, sade bir anlatıma özen gösterdim ve bazı içerikleri videolarla desteklemeye çalıştım. Videolara ilgili sayfalardaki kare kodu (qr code) kare kod okuyucusuna okutarak ya da sayfada bulunan linke tıklayarak erişebilirsiniz.
-Bu kitabın içeriğini bitirdiğinizde temel HTML bilgisine ve HTML'nin son sürümüne hakim olacaksınız. Bu sayede, kişisel basit bir web sitesi yapabilecek ya da mevcut bir web sitesini düzenleyebileceksiniz. Sonraki aşamada, CSS bilginizi artırabilir ve yaptığınız siteleri görsel olarak zenginleştirebilirsiniz.
+Bu kursta, birçok kaynaktan derlediğim bilgileri uzun yıllar boyu edindiğim deneyimlerle bir araya getirmeye çalıştım. Web tasarımı ve programlama dersleri verirken Türkçe kaynak eksikliğinden yakınan biri olarak ilgililere fayda sağlayacağı düşüncesindeyim. Basit, sade bir anlatıma özen gösterdim ve bazı içerikleri videolarla desteklemeye çalıştım. Videolara ilgili sayfalardaki kare kodu (qr code) kare kod okuyucusuna okutarak ya da sayfada bulunan linke tıklayarak erişebilirsiniz.
+Bu kursun içeriğini bitirdiğinizde temel HTML bilgisine ve HTML'nin son sürümüne hakim olacaksınız. Bu sayede, kişisel basit bir web sitesi yapabilecek ya da mevcut bir web sitesini düzenleyebileceksiniz. Sonraki aşamada, CSS bilginizi artırabilir ve yaptığınız siteleri görsel olarak zenginleştirebilirsiniz.
 
 > Subtitle or Short Description Goes Here
 
