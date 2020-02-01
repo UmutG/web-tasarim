@@ -1,6 +1,6 @@
 # Web Tasarımın Temelleri
 
-Bu sayfa, Udemy'de yayınlanan "Web Tasarımının Temelleri" kursu için hazırlanmıştır. Proje dosyalarına [bu linkten](https://github.com/hknyldrm/web-tasarim) erişebilirsiniz. Ayrıca, yayıncı [Hakan Yıldırım] (http://hakanyildirim.com/)'ın kişisel web sitesini de ziyaret edebilirsiniz.
+Bu sayfa, Udemy'de yayınlanan "Web Tasarımının Temelleri" kursu için hazırlanmıştır. Proje dosyalarına [bu linkten](https://github.com/hknyldrm/web-tasarim) erişebilirsiniz. Ayrıca, yayıncı [Hakan Yıldırım](http://hakanyildirim.com/)'ın kişisel web sitesini de ziyaret edebilirsiniz.
 
 ## Kitap Önerileri
 
