@@ -1,13 +1,30 @@
 # Web Tasarımın Temelleri
 
-Bu sayfa, Udemy'de yayınlanan "Web Tasarımının Temelleri" kursu için hazırlanmıştır. Proje dosyalarına [bu linkten](https://github.com/hknyldrm/web-tasarim) erişebilirsiniz. Ayrıca, yayıncı [Hakan Yıldırım](http://hakanyildirim.com/)'ın kişisel web sitesini de ziyaret edebilirsiniz.
+Bu sayfa, Udemy'de yayınlanan "Web Tasarımının Temelleri" kursu için hazırlanmıştır. Sayfada kurs videolarında yer verilen örnekleri, videolarda bahsedilen web sitelerini ve kısa yolları bulabilirsiniz.
+
+* Proje dosyalarına [bu linkten](https://github.com/hknyldrm/web-tasarim) erişebilirsiniz. Ayrıca, yayıncı [Hakan Yıldırım](http://hakanyildirim.com/)'ın kişisel web sitesini de ziyaret edebilirsiniz.
+
+# Kurs içeriği
+
+Bu kursun amacı, önlisans, lisans ve yüksek lisans seviyesinde verilen web tasarım dersleri için bir kaynak oluşturmaktır. Tüm içerik tamamen ücretsiz olup, Youtube kanalı üzerinden de yayınlanmaktadır.
+
+* Bölüm 01. Giriş
+
+* Bölüm 02. HTML ile 
+
+* Bölüm 03. CSS ile tasarım
+
+* Bölüm 04. JS ile etkileşim
+
+* Bölüm 05. Webte kullanılan görseller
+
 
 ## Kitap Önerileri
 
 * [Learning Web Design, 5th Edition](https://www.google.com/search?q=Learning+Web+Design%2C+5th+Edition)
 * [Web Tasarımı ve Web Programlama - A'dan Z'ye Yeni Nesil Tekniklerle](https://www.google.com/search?q=Web+Tasar%C4%B1m%C4%B1+ve+Web+Programlama+-+A%27dan+Z%27ye+Yeni+Nesil+Tekniklerle)
 
-## Kaynaklar
+## Eğitim Siteleri
 
 * [W3Schools](https://w3schools.com)
 * [Smashing Magazine](https://www.smashingmagazine.com/)
@@ -18,7 +35,10 @@ Bu sayfa, Udemy'de yayınlanan "Web Tasarımının Temelleri" kursu için hazır
 ## Geliştirme Ortamları
 
 * [Visual Studio Code](https://code.visualstudio.com/)
+* [Sublime Text](https://www.sublimetext.com/)
+* [Brackets](http://brackets.io/)
 * [Atom](https://atom.io/)
+* [Notepad++](https://notepad-plus-plus.org/)
 
 ## Web Hosting & Domain
 
