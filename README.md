@@ -2,21 +2,21 @@
 
 Bu sayfa, Udemy'de yayınlanan "Web Tasarımının Temelleri" kursu için hazırlanmıştır. Sayfada kurs videolarında yer verilen örnekleri, videolarda bahsedilen web sitelerini ve kısa yolları bulabilirsiniz.
 
-* Proje dosyalarına [bu linkten](https://github.com/hknyldrm/web-tasarim) erişebilirsiniz. Ayrıca, yayıncı [Hakan Yıldırım](http://hakanyildirim.com/)'ın kişisel web sitesini de ziyaret edebilirsiniz.
+Proje dosyalarına [bu linkten](https://github.com/hknyldrm/web-tasarim) erişebilirsiniz. Ayrıca, yayıncı [Hakan Yıldırım](http://hakanyildirim.com/)'ın kişisel web sitesini de ziyaret edebilirsiniz.
 
-# Kurs içeriği
+# Kurs İçeriği
 
 Bu kursun amacı, önlisans, lisans ve yüksek lisans seviyesinde verilen web tasarım dersleri için bir kaynak oluşturmaktır. Tüm içerik tamamen ücretsiz olup, Youtube kanalı üzerinden de yayınlanmaktadır.
 
-* Bölüm 01. Giriş
+* [Bölüm 01. Giriş](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
 
-* Bölüm 02. HTML ile 
+* [Bölüm 02. HTML](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
 
-* Bölüm 03. CSS ile tasarım
+* [Bölüm 03. CSS](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
 
-* Bölüm 04. JS ile etkileşim
+* [Bölüm 04. JS](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
 
-* Bölüm 05. Webte kullanılan görseller
+* [Bölüm 05. Webte kullanılan görseller](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
 
 
 ## Kitap Önerileri
