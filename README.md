@@ -1,22 +1,19 @@
 # Web Tasarımın Temelleri
 
-Bu sayfa, Udemy'de yayınlanan "Web Tasarımının Temelleri" kursu için hazırlanmıştır. Sayfada kurs videolarında yer verilen örnekleri, videolarda bahsedilen web sitelerini ve kısa yolları bulabilirsiniz.
+Bu sayfa, Udemy'de yayınlanan "Web Tasarımının Temelleri" kursu için hazırlanmıştır. Sayfada kurs içeriğini, kurs videolarındaki kaynak kodları, videolarda bahsedilen web sitelerini ve kısa yolları bulabilirsiniz. Tüm içerik tamamen ücretsiz olup, videolar Youtube kanalı üzerinden de yayınlanmaktadır.
 
-Proje dosyalarına [bu linkten](https://github.com/hknyldrm/web-tasarim) erişebilirsiniz. Ayrıca, yayıncı [Hakan Yıldırım](http://hakanyildirim.com/)'ın kişisel web sitesini de ziyaret edebilirsiniz.
-
-Bu kursta, birçok kaynaktan derlediğim bilgileri uzun yıllar boyu edindiğim deneyimlerle bir araya getirmeye çalıştım. Web tasarımı ve programlama dersleri verirken Türkçe kaynak eksikliğinden yakınan biri olarak ilgililere fayda sağlayacağı düşüncesindeyim. Basit, sade bir anlatıma özen gösterdim ve bazı içerikleri videolarla desteklemeye çalıştım. Videolara ilgili sayfalardaki kare kodu (qr code) kare kod okuyucusuna okutarak ya da sayfada bulunan linke tıklayarak erişebilirsiniz.
-Bu kursun içeriğini bitirdiğinizde temel HTML bilgisine ve HTML'nin son sürümüne hakim olacaksınız. Bu sayede, kişisel basit bir web sitesi yapabilecek ya da mevcut bir web sitesini düzenleyebileceksiniz. Sonraki aşamada, CSS bilginizi artırabilir ve yaptığınız siteleri görsel olarak zenginleştirebilirsiniz.
-
-> Subtitle or Short Description Goes Here
-
-> ideally one sentence
+Proje dosyalarına [bu linkten](https://github.com/hknyldrm/web-tasarim) erişebilirsiniz. Ayrıca, yayıncı **[Hakan Yıldırım](http://hakanyildirim.com/)**'ın kişisel web sitesini de ziyaret edebilirsiniz. Her türlü görüş ve önerilerinizi sitedeki iletişim kanallarından bana iletebilirsiniz.
 
 # Kurs İçeriği
 
-Bu kursun amacı, önlisans, lisans ve yüksek lisans seviyesinde verilen web tasarım dersleri için bir kaynak oluşturmaktır. Tüm içerik tamamen ücretsiz olup, Youtube kanalı üzerinden de yayınlanmaktadır.
+Bu kursta, birçok kaynaktan derlediğim bilgileri uzun yıllar boyu edindiğim deneyimlerle bir araya getirmeye çalıştım. Web tasarımı ve web programlama dersleri verirken Türkçe kaynak eksikliğinden yakınan biri olarak ilgililere fayda sağlayacağı düşüncesindeyim. Basit, sade bir anlatıma özen gösterdim ve bazı içerikleri videolarla desteklemeye çalıştım.
+
+Bu kursun amacı, önlisans, lisans ve yüksek lisans seviyesinde verilen web tasarım dersleri için bir kaynak oluşturmaktır. Kurs toplam 5 ana başlık altında XX alt başlıktan oluşmaktadır. Kurs içeriği;
 
 * [Bölüm 01. Giriş](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
-
+ * 01. Web sitesi nasıl çalışır?
+ * 02. Browser (tarayıcı) nedir?
+ * 03. Crossbrowsering nedir?
 * [Bölüm 02. HTML](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
 
 * [Bölüm 03. CSS](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
@@ -25,6 +22,7 @@ Bu kursun amacı, önlisans, lisans ve yüksek lisans seviyesinde verilen web ta
 
 * [Bölüm 05. Webte kullanılan görseller](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
 
+Bu kursun içeriğini bitirdiğinizde temel HTML bilgisine ve HTML'nin son sürümüne hakim olacaksınız. Bu sayede, kişisel basit bir web sitesi yapabilecek ya da mevcut bir web sitesini düzenleyebileceksiniz. Yine kurs sayesinde, CSS bilginizi artırabilir ve yaptığınız siteleri görsel olarak zenginleştirebilirsiniz. JavaScript dersleri ile de oluşturduğunuz web sitelerini özelleştirerek web sitesi ziyaretçilerinizle etkileşimler elde edebilirsiniz.
 
 ## Kitap Önerileri
 
@@ -50,5 +48,11 @@ Bu kursun amacı, önlisans, lisans ve yüksek lisans seviyesinde verilen web ta
 ## Web Hosting & Domain
 
 * [DigitalOcean](https://www.digitalocean.com/)
-* [GitHub Pages ile site oluşturma](https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site)
+* [GoDaddy](https://godaddy.com/)
+* [Turhost](https://www.turhost.com/)
 
+## Katkı Verenler
+
+* Umut Geyik
+
+*Son güncelleme: 02 Şubat 2020*
