@@ -11,25 +11,35 @@ Bu kursta, birçok kaynaktan derlediğim bilgileri uzun yıllar boyu edindiğim 
 Bu kursun amacı, önlisans, lisans ve yüksek lisans seviyesinde verilen web tasarım dersleri için bir kaynak oluşturmaktır. Kurs toplam 5 ana başlık altında XX alt başlıktan oluşmaktadır. Kurs içeriği;
 
 * [Bölüm 01. Giriş](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
-    - D01. Web sitesi nasıl çalışır?
-    - D02. Browser (tarayıcı) nedir?
-    - D03. Crossbrowsering nedir?
+    - Ders 01. Web tasarımına giriş
+    - Ders 02. Web nasıl çalışır?
+    - Ders 03. Tasarımcıların bilmesi gereken detaylar
 * [Bölüm 02. HTML](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
-    - D01. Web sitesi nasıl çalışır?
-    - D02. Browser (tarayıcı) nedir?
-    - D03. Crossbrowsering nedir?
+    - Ders 01. Basit bir HTML sayfası
+    - Ders 02. Metinlerle çalışmak
+    - Ders 03. Link ekleme
+    - Ders 04. Resim ekleme
+    - Ders 05. Tablolar
+    - Ders 06. Form elemanları
+    - Ders 07. Gömülü (embed) medya öğeleri
 * [Bölüm 03. CSS](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
-    - D01. Web sitesi nasıl çalışır?
-    - D02. Browser (tarayıcı) nedir?
-    - D03. Crossbrowsering nedir?
+    - Ders 01. CSS’e giriş
+    - Ders 02. Metin öğelerini biçimlendirme
+    - Ders 03. Renkler ve arka plan özellikleri
+    - Ders 04. Sınır öğeleri ile çalışmak
+    - Ders 05. Yüzen elemanlar ve pozisyonları
+    - Ders 06. CSS layoutları yaratmak
+    - Ders 07. Responsive web tasarım
+    - Ders 08. Geçişler, dönüşümler ve animasyon
+    - Ders 09. Diğer CSS teknikleri
+    - Ders 10. Modern web geliştirme araçları
 * [Bölüm 04. JS](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
-    - D01. Web sitesi nasıl çalışır?
-    - D02. Browser (tarayıcı) nedir?
-    - D03. Crossbrowsering nedir?
+    - Ders 01. Javascripte giriş
+    - Ders 02. Javascript
 * [Bölüm 05. Webte kullanılan görseller](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
-    - D01. Web sitesi nasıl çalışır?
-    - D02. Browser (tarayıcı) nedir?
-    - D03. Crossbrowsering nedir?
+    - Ders 01. Web için resim
+    - Ders 02. Resim öğeleri üretmek
+    - Ders 03. SVG
 
 Bu kursun içeriğini bitirdiğinizde temel HTML bilgisine ve HTML'nin son sürümüne hakim olacaksınız. Bu sayede, kişisel basit bir web sitesi yapabilecek ya da mevcut bir web sitesini düzenleyebileceksiniz. Yine kurs sayesinde, CSS bilginizi artırabilir ve yaptığınız siteleri görsel olarak zenginleştirebilirsiniz. JavaScript dersleri ile de oluşturduğunuz web sitelerini özelleştirerek web sitesi ziyaretçilerinizle etkileşimler elde edebilirsiniz.
 
@@ -63,5 +73,8 @@ Bu kursun içeriğini bitirdiğinizde temel HTML bilgisine ve HTML'nin son sür�
 ## Katkı Verenler
 
 * Umut Geyik
+* [Freepik](https://www.freepik.com/)
+* [unDraw](https://undraw.co/)
+* [Whimsical](https://whimsical.com/)
 
 *Son güncelleme: 02 Şubat 2020*
