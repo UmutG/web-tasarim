@@ -2,7 +2,7 @@
 
 Bu sayfa, Udemy'de yayınlanan "Web Tasarımının Temelleri" kursu için hazırlanmıştır. Sayfada kurs içeriğini, kurs videolarındaki kaynak kodları, videolarda bahsedilen web sitelerini ve kısa yolları bulabilirsiniz. Tüm içerik tamamen ücretsiz olup, videolar Youtube kanalı üzerinden de yayınlanmaktadır.
 
-Proje dosyalarına [bu linkten](https://github.com/hknyldrm/web-tasarim) erişebilirsiniz. Ayrıca, yayıncı **[Hakan Yıldırım](http://hakanyildirim.com/)**'ın kişisel web sitesini de ziyaret edebilirsiniz. Her türlü görüş ve önerilerinizi sitedeki iletişim kanallarından bana iletebilirsiniz.
+Proje dosyalarına [bu linkten](https://github.com/hknyldrm/web-tasarim) erişebilirsiniz. Ayrıca, yayıncı **[Hakan Yıldırım](http://hakanyildirim.com/)**'ın kişisel web sitesini ziyaret edebilirsiniz. Her türlü görüş ve önerilerinizi sitedeki iletişim kanallarından bana iletebilirsiniz.
 
 # Kurs İçeriği
 
