@@ -11,16 +11,25 @@ Bu kursta, birçok kaynaktan derlediğim bilgileri uzun yıllar boyu edindiğim 
 Bu kursun amacı, önlisans, lisans ve yüksek lisans seviyesinde verilen web tasarım dersleri için bir kaynak oluşturmaktır. Kurs toplam 5 ana başlık altında XX alt başlıktan oluşmaktadır. Kurs içeriği;
 
 * [Bölüm 01. Giriş](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
- - D01. Web sitesi nasıl çalışır?
- - D02. Browser (tarayıcı) nedir?
- - D03. Crossbrowsering nedir?
+    - D01. Web sitesi nasıl çalışır?
+    - D02. Browser (tarayıcı) nedir?
+    - D03. Crossbrowsering nedir?
 * [Bölüm 02. HTML](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
-
+    - D01. Web sitesi nasıl çalışır?
+    - D02. Browser (tarayıcı) nedir?
+    - D03. Crossbrowsering nedir?
 * [Bölüm 03. CSS](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
-
+    - D01. Web sitesi nasıl çalışır?
+    - D02. Browser (tarayıcı) nedir?
+    - D03. Crossbrowsering nedir?
 * [Bölüm 04. JS](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
-
+    - D01. Web sitesi nasıl çalışır?
+    - D02. Browser (tarayıcı) nedir?
+    - D03. Crossbrowsering nedir?
 * [Bölüm 05. Webte kullanılan görseller](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
+    - D01. Web sitesi nasıl çalışır?
+    - D02. Browser (tarayıcı) nedir?
+    - D03. Crossbrowsering nedir?
 
 Bu kursun içeriğini bitirdiğinizde temel HTML bilgisine ve HTML'nin son sürümüne hakim olacaksınız. Bu sayede, kişisel basit bir web sitesi yapabilecek ya da mevcut bir web sitesini düzenleyebileceksiniz. Yine kurs sayesinde, CSS bilginizi artırabilir ve yaptığınız siteleri görsel olarak zenginleştirebilirsiniz. JavaScript dersleri ile de oluşturduğunuz web sitelerini özelleştirerek web sitesi ziyaretçilerinizle etkileşimler elde edebilirsiniz.
 
