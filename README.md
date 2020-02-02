@@ -11,9 +11,9 @@ Bu kursta, birçok kaynaktan derlediğim bilgileri uzun yıllar boyu edindiğim 
 Bu kursun amacı, önlisans, lisans ve yüksek lisans seviyesinde verilen web tasarım dersleri için bir kaynak oluşturmaktır. Kurs toplam 5 ana başlık altında XX alt başlıktan oluşmaktadır. Kurs içeriği;
 
 * [Bölüm 01. Giriş](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
- * 01. Web sitesi nasıl çalışır?
- * 02. Browser (tarayıcı) nedir?
- * 03. Crossbrowsering nedir?
+ * D01. Web sitesi nasıl çalışır?
+ * D02. Browser (tarayıcı) nedir?
+ * D03. Crossbrowsering nedir?
 * [Bölüm 02. HTML](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
 
 * [Bölüm 03. CSS](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
