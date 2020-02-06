@@ -8,11 +8,11 @@ Proje dosyalarına [bu linkten](https://github.com/hknyldrm/web-tasarim) erişeb
 
 Bu kursta, birçok kaynaktan derlediğim bilgileri uzun yıllar boyu edindiğim deneyimlerle bir araya getirmeye çalıştım. Web tasarımı ve web programlama dersleri verirken Türkçe kaynak eksikliğinden yakınan biri olarak ilgililere fayda sağlayacağı düşüncesindeyim. Basit, sade bir anlatıma özen gösterdim ve bazı içerikleri videolarla desteklemeye çalıştım.
 
-Bu kursun amacı, önlisans, lisans ve yüksek lisans seviyesinde verilen web tasarım dersleri için bir kaynak oluşturmaktır. Kurs toplam 5 ana başlık altında XX alt başlıktan oluşmaktadır. Kurs içeriği;
+Bu kursun amacı, önlisans, lisans ve yüksek lisans seviyesinde verilen web tasarım dersleri için bir kaynak oluşturmaktır. Kurs toplam 5 ana başlık altında 25 alt başlıktan oluşmaktadır. Kurs içeriği;
 
 * [Bölüm 01. Giriş](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
-    - Ders 01. Web tasarımına giriş
-    - Ders 02. Web nasıl çalışır?
+    - Ders 01. Temel kavramlar
+    - Ders 02. Web siteleri nasıl çalışır?
     - Ders 03. Tasarımcıların bilmesi gereken detaylar
 * [Bölüm 02. HTML](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
     - Ders 01. Basit bir HTML sayfası
