@@ -17,33 +17,202 @@ Bu kursun amacı, önlisans, lisans ve yüksek lisans seviyesinde verilen web ta
 	    - Gearing Up for Web Design
 	    - What You’ve Learned
     - Ders 02. Web siteleri nasıl çalışır?
+        - The Internet Versus the Web
+        - Serving Up Your Information
+        - A Word About Browsers
+        - Web Page Addresses (URLs)
+        - The Anatomy of a Web Page
+        - Putting It All Together
     - Ders 03. Tasarımcıların bilmesi gereken detaylar
+        - A Multitude of Devices
+	    - Sticking with the Standards
+	    - Progressive Enhancement
+	    - Responsive Web Design
+	    - One Web for All (Accessibility)
+	    - The Need for Speed (Site Performance)
 * [Bölüm 02. HTML](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
-    - Ders 01. Basit bir HTML sayfası
-    - Ders 02. Metinlerle çalışmak
-    - Ders 03. Link ekleme
-    - Ders 04. Resim ekleme
-    - Ders 05. Tablolar
-    - Ders 06. Form elemanları
-    - Ders 07. Gömülü (embed) medya öğeleri
+    - Ders 04. Basit bir HTML sayfası
+        - A Web Page, Step-By-Step
+        - Launch a Text Editor
+        - Step 1: Start with Content
+        - Step 2: Give the HTML Document Structure
+        - Step 3: Identify Text Elements
+        - Step 4: Add an Image
+        - Step 5: Change the Look with a Style Sheet
+        - When Good Pages Go Bad
+        - Validating Your Documents
+        - Element Review: HTML Document Setup
+    - Ders 05. Metinlerle çalışmak
+        - Paragraphs
+        - Headings
+        - Thematic Breaks (Horizontal Rule)
+        - Lists
+        - More Content Elements
+        - Organizing Page Content
+        - The Inline Element Roundup
+        - Generic Elements (div and span)
+        - Improving Accessibility with ARIA
+        - Character Escapes
+        - Putting It All Together
+        - Element Review: Text Elements    
+    - Ders 06. Link ekleme
+        - The href Attribute
+        - Linking to Pages on the Web
+        - Linking Within Your Own Site
+        - Targeting a New Browser Window
+        - Mail Links
+        - Telephone Links
+        - Element Review: Links    
+    - Ders 07. Resim ekleme
+        - First, a Word on Image Formats
+        - The img Element
+        - Adding SVG Images
+        - Responsive Image Markup
+        - Whew! We’re Finished
+        - Element Review: Images
+    - Ders 08. Tablolar
+        - How to Use Tables
+        - Minimal Table Structure
+        - Table Headers
+        - Spanning Cells
+        - Table Accessibility
+        - Row and Column Groups
+        - Wrapping Up Tables
+        - Element Review: Tables    
+    - Ders 09. Form elemanları
+        How Forms Work
+        The form Element
+        Variables and Content
+        The Great Form Control Roundup
+        Form Accessibility Features
+        Form Layout and Design
+        Element Review: Forms
+    - Ders 10. Gömülü (embed) medya öğeleri
+        - Window-In-A-Window (iframe)
+        - Multipurpose Embedder (object)
+        - Video and Audio
+        - Canvas
+        - Element Review: Embedded Media
 * [Bölüm 03. CSS](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
-    - Ders 01. CSS’e giriş
-    - Ders 02. Metin öğelerini biçimlendirme
-    - Ders 03. Renkler ve arka plan özellikleri
-    - Ders 04. Sınır öğeleri ile çalışmak
-    - Ders 05. Yüzen elemanlar ve pozisyonları
-    - Ders 06. CSS layoutları yaratmak
-    - Ders 07. Responsive web tasarım
-    - Ders 08. Geçişler, dönüşümler ve animasyon
-    - Ders 09. Diğer CSS teknikleri
-    - Ders 10. Modern web geliştirme araçları
+    - Ders 11. CSS’e giriş
+        - The Benefits of CSS
+        - How Style Sheets Work
+        - The Big Concepts
+        - CSS Units of Measurement
+        - Developer Tools Right in Your Browser
+        - Moving Forward with CSS
+    - Ders 12. Metin öğelerini biçimlendirme
+        - Basic Font Properties
+        - Advanced Typography with CSS3
+        - Changing Text Color
+        - A Few More Selector Types
+        - Text Line Adjustments
+        - Underlines and Other “Decorations”
+        - Changing Capitalization
+        - Spaced Out
+        - Text Shadow
+        - Changing List Bullets and Numbers
+        - CSS Review: Font and Text Properties
+    - Ders 13. Renkler ve arka plan özellikleri
+        - Specifying Color Values
+        - Foreground Color
+        - Background Color
+        - Clipping the Background
+        - Playing with Opacity
+        - Pseudo-Class Selectors
+        - Pseudo-Element Selectors
+        - Attribute Selectors
+        - Background Images
+        - The Shorthand background Property
+        - Like a Rainbow (Gradients)
+        - Finally, External Style Sheets
+        - Wrapping It Up
+        - CSS Review: Color and Background Properties
+    - Ders 14. Sınır öğeleri ile çalışmak
+        - The Element Box
+        - Specifying Box Dimensions
+        - Padding
+        - Borders
+        - Margins
+        - Assigning Display Types
+        - Box Drop Shadows
+        - CSS Review: Box Properties
+    - Ders 15. Yüzen elemanlar ve pozisyonları
+        - Normal Flow
+        - Floating 
+        - Fancy Text Wrap with CSS Shapes
+        - Positioning Basics
+        - Relative Positioning
+        - Absolute Positioning
+        - Fixed Positioning
+        - CSS Review: Floating and Positioning Properties
+    - Ders 16. CSS layoutları yaratmak
+        - Flexible Boxes with CSS Flexbox
+        - CSS Grid Layout
+        - CSS Review: Layout Properties
+    - Ders 17. Responsive web tasarım
+        - Why RWD?
+        - The Responsive Recipe
+        - Choosing Breakpoints
+        - Designing Responsively
+        - A Few Words About Testing
+        - More RWD Resources
+    - Ders 18. Geçişler, dönüşümler ve animasyon
+        - Ease-y Does It (CSS Transitions)
+        - CSS Transforms
+        - Keyframe Animation
+        - Wrapping Up
+        - CSS Review: Transitions, Transforms, and Animation
+    - Ders 19. Diğer CSS teknikleri
+        - Styling Forms
+        - Styling Tables
+        - A Clean Slate (Reset and Normalize.css)
+        - Image Replacement Techniques
+        - CSS Sprites
+        - CSS Feature Detection
+        - Wrapping Up Style Sheets
+        - CSS Review: Table Properties
+    - Ders 20. Modern web geliştirme araçları
+        - Getting Cozy with the Command Line
+        - CSS Power Tools (Processors)
+        - Build Tools (Grunt and Gulp)
+        - Version Control with Git and GitHub
+        - Conclusion
 * [Bölüm 04. JS](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
-    - Ders 01. Javascripte giriş
-    - Ders 02. Javascript
+    - Ders 21. Javascripte giriş
+        - What Is JavaScript?
+        - Adding JavaScript to a Page
+        - The Anatomy of a Script
+        - The Browser Object
+        - Events
+        - Putting It All Together
+        - Learning More About JavaScript
+    - Ders 22. Javascript
+        - Meet the DOM
+        - Polyfills
+        - JavaScript Libraries
+        - Big Finish
 * [Bölüm 05. Webte kullanılan görseller](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
-    - Ders 01. Web için resim
-    - Ders 02. Resim öğeleri üretmek
-    - Ders 03. SVG
+    - Ders 23. Web için resim
+        - Image Sources
+        - Meet the Formats
+        - Image Size and Resolution
+        - Image Asset Strategy
+        - Favicons
+        - Summing Up Images
+    - Ders 24. Resim öğeleri üretmek
+        - Saving Images in Web Formats
+        - Working with Transparency
+        - Responsive Image Production Tips
+        - Image Optimization
+    - Ders 25. SVG
+        - Drawing with XML
+        - Features of SVG as XML
+        - SVG Tools
+        - SVG Production Tips
+        - Responsive SVGs
+        - Further SVG Exploration
+        - And...We’re Done!
 
 Bu kursun içeriğini bitirdiğinizde temel HTML bilgisine ve HTML'nin son sürümüne hakim olacaksınız. Bu sayede, kişisel basit bir web sitesi yapabilecek ya da mevcut bir web sitesini düzenleyebileceksiniz. Yine kurs sayesinde, CSS bilginizi artırabilir ve yaptığınız siteleri görsel olarak zenginleştirebilirsiniz. JavaScript dersleri ile de oluşturduğunuz web sitelerini özelleştirerek web sitesi ziyaretçilerinizle etkileşimler elde edebilirsiniz.
 
