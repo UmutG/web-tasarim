@@ -1,14 +1,14 @@
 # Web Tasarımın Temelleri
 
-Bu sayfa, [Udemy](https://udemy.com)'de yayınlanan ["Web Tasarımının Temelleri"](https://udemy.com) kursu için hazırlanmıştır. Sayfada kurs içeriğini, kurs videolarındaki kaynak kodları, videolarda bahsedilen web sitelerini ve kısa yolları bulabilirsiniz. Tüm içerik tamamen ücretsiz olup, videolar Youtube kanalı üzerinden de yayınlanması planlanmaktadır.
+Bu sayfa, [Udemy](https://udemy.com)'de yayınlanan ["Web Tasarımının Temelleri"](https://udemy.com) kursu için hazırlanmıştır. Sayfada kurs içeriğini, kurs videolarındaki kaynak kodları, videolarda bahsedilen web sitelerini ve kısa yolları bulabilirsiniz. Tüm içerik **tamamen ücretsiz** olup, eğitim videolarının Youtube kanalı üzerinden de yayınlanması planlanmaktadır.
 
-Proje dosyalarına [bu linkten](https://github.com/hknyldrm/web-tasarim) erişebilirsiniz. Ayrıca, yayıncı **[Hakan Yıldırım](http://hakanyildirim.com/)**'ın kişisel web sitesini ziyaret edebilirsiniz. Her türlü görüş ve önerilerinizi sitedeki iletişim kanallarından bana iletebilirsiniz. Ayrıca, bu sayfaya, [https://hknyldrm.github.io/web-tasarim/](https://hknyldrm.github.io/web-tasarim/) adresinden de erişilebilirsiniz.
+Proje dosyalarına [bu linkten](https://github.com/hknyldrm/web-tasarim) erişebilirsiniz. Ayrıca, yayıncı **[Hakan Yıldırım](http://hakanyildirim.com/)**'ın kişisel web sitesini ziyaret edebilirsiniz. Her türlü görüş ve önerilerinizi sitedeki iletişim kanallarından bana iletebilirsiniz. Yine, bu sayfaya, [https://hknyldrm.github.io/web-tasarim/](https://hknyldrm.github.io/web-tasarim/) adresinden de erişilebilirsiniz.
 
 # Kurs İçeriği
 
-Bu kursta, birçok kaynaktan derlediğim bilgileri uzun yıllar boyu edindiğim deneyimlerle bir araya getirmeye çalıştım. Web tasarımı ve web programlama dersleri verirken Türkçe kaynak eksikliğinden yakınan biri olarak ilgililere fayda sağlayacağı düşüncesindeyim. Basit, sade bir anlatıma özen gösterdim ve bazı içerikleri videolarla desteklemeye çalıştım.
+Bu kursta, birçok kaynaktan derlediğim bilgileri uzun yıllar boyu edindiğim deneyimlerle bir araya getirmeye çalıştım. Web tasarımı ve web programlama dersleri verirken düzenli Türkçe kaynak eksikliğinden yakınan biri olarak ilgililere fayda sağlayacağı düşüncesindeyim. Basit, sade bir anlatıma özen gösterdim ve içerikleri videolarla desteklemeye çalıştım.
 
-Bu kursun amacı, önlisans, lisans ve yüksek lisans seviyesinde verilen web tasarım dersleri için bir kaynak oluşturmaktır. Kurs toplam 5 ana başlık altında 25 alt başlıktan oluşmaktadır. Bu başlıklar altında toplam 173 anlatım bulunmaktadır. Kurs içeriği;
+Bu kursun amacı, önlisans, lisans ve yüksek lisans seviyesinde verilen web tasarım dersleri için bir kaynak oluşturmaktır. Kurs toplam 5 ana başlık altında 25 alt başlıktan oluşmaktadır. Bu başlıklar altında toplam 173 konu anlatımı bulunmaktadır. Kurs içeriği;
 
 * [Bölüm 01. Giriş](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
     - Ders 01. Başlarken
@@ -80,13 +80,13 @@ Bu kursun amacı, önlisans, lisans ve yüksek lisans seviyesinde verilen web ta
         - Wrapping Up Tables
         - Element Review: Tables    
     - Ders 09. Form elemanları
-        How Forms Work
-        The form Element
-        Variables and Content
-        The Great Form Control Roundup
-        Form Accessibility Features
-        Form Layout and Design
-        Element Review: Forms
+        - How Forms Work
+        - The form Element
+        - Variables and Content
+        - The Great Form Control Roundup
+        - Form Accessibility Features
+        - Form Layout and Design
+        - Element Review: Forms
     - Ders 10. Gömülü (embed) medya öğeleri
         - Window-In-A-Window (iframe)
         - Multipurpose Embedder (object)
@@ -196,9 +196,9 @@ Bu kursun amacı, önlisans, lisans ve yüksek lisans seviyesinde verilen web ta
     - Ders 23. Web için resim
         - Image Sources
         - Meet the Formats
-        - Image Size and Resolution
+        - Image Size and Resolution - Resim boyutu ve çözünürlüğü
         - Image Asset Strategy
-        - Favicons
+        - Favicon nedir?
         - Summing Up Images
     - Ders 24. Resim öğeleri üretmek
         - Saving Images in Web Formats
@@ -216,9 +216,16 @@ Bu kursun amacı, önlisans, lisans ve yüksek lisans seviyesinde verilen web ta
 
 Bu kursun içeriğini bitirdiğinizde temel HTML bilgisine ve HTML'nin son sürümüne hakim olacaksınız. Bu sayede, kişisel basit bir web sitesi yapabilecek ya da mevcut bir web sitesini düzenleyebileceksiniz. Yine kurs sayesinde, CSS bilginizi artırabilir ve yaptığınız siteleri görsel olarak zenginleştirebilirsiniz. JavaScript dersleri ile de oluşturduğunuz web sitelerini özelleştirerek web sitesi ziyaretçilerinizle etkileşimler elde edebilirsiniz.
 
+# Haftalık Online Buluşmalar
+
+Bilgilerinizi taze tutmak, aklınıza takılanları sorabilmeniz için her Cumartesi saat 14:00'da [Zoom](https://zoom.us) (sınırlı katılım) ve [YouTube](https://youtube.com) (herkese açık) üzerinden katılabileceğiniz yaklaşık 1 saatlik online soru-cevap etkinliği gerçekleştireceğiz.
+
+* [Zoom kurulumu hakkında bilgi](https://zoom.us)
+* [YouTube kanalı](https://youtube.com)
+
 ## Kitap Önerileri
 
-* [Learning Web Design, 5th Edition](https://www.google.com/search?q=Learning+Web+Design%2C+5th+Edition)
+* [Learning Web Design, 5th Edition](https://www.amazon.com/Learning-Web-Design-Beginners-JavaScript/dp/1491960205)
 * [Web Tasarımı ve Web Programlama - A'dan Z'ye Yeni Nesil Tekniklerle](https://www.google.com/search?q=Web+Tasar%C4%B1m%C4%B1+ve+Web+Programlama+-+A%27dan+Z%27ye+Yeni+Nesil+Tekniklerle)
 
 ## Eğitim Siteleri
