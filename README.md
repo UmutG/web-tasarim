@@ -12,6 +12,10 @@ Bu kursun amacı, önlisans, lisans ve yüksek lisans seviyesinde verilen web ta
 
 * [Bölüm 01. Giriş](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
     - Ders 01. Temel kavramlar
+        - Where Do I Start?
+	    - It Takes a Village (Website Creation Roles)
+	    - Gearing Up for Web Design
+	    - What You’ve Learned
     - Ders 02. Web siteleri nasıl çalışır?
     - Ders 03. Tasarımcıların bilmesi gereken detaylar
 * [Bölüm 02. HTML](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
