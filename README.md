@@ -1,39 +1,39 @@
 # Web Tasarımın Temelleri
 
-Bu sayfa, Udemy'de yayınlanan "Web Tasarımının Temelleri" kursu için hazırlanmıştır. Sayfada kurs içeriğini, kurs videolarındaki kaynak kodları, videolarda bahsedilen web sitelerini ve kısa yolları bulabilirsiniz. Tüm içerik tamamen ücretsiz olup, videolar Youtube kanalı üzerinden de yayınlanmaktadır.
+Bu sayfa, [Udemy](https://udemy.com)'de yayınlanan ["Web Tasarımının Temelleri"](https://udemy.com) kursu için hazırlanmıştır. Sayfada kurs içeriğini, kurs videolarındaki kaynak kodları, videolarda bahsedilen web sitelerini ve kısa yolları bulabilirsiniz. Tüm içerik tamamen ücretsiz olup, videolar Youtube kanalı üzerinden de yayınlanması planlanmaktadır.
 
-Proje dosyalarına [bu linkten](https://github.com/hknyldrm/web-tasarim) erişebilirsiniz. Ayrıca, yayıncı **[Hakan Yıldırım](http://hakanyildirim.com/)**'ın kişisel web sitesini ziyaret edebilirsiniz. Her türlü görüş ve önerilerinizi sitedeki iletişim kanallarından bana iletebilirsiniz.
+Proje dosyalarına [bu linkten](https://github.com/hknyldrm/web-tasarim) erişebilirsiniz. Ayrıca, yayıncı **[Hakan Yıldırım](http://hakanyildirim.com/)**'ın kişisel web sitesini ziyaret edebilirsiniz. Her türlü görüş ve önerilerinizi sitedeki iletişim kanallarından bana iletebilirsiniz. Ayrıca, bu sayfaya, [https://hknyldrm.github.io/web-tasarim/](https://hknyldrm.github.io/web-tasarim/) adresinden de erişilebilirsiniz.
 
 # Kurs İçeriği
 
 Bu kursta, birçok kaynaktan derlediğim bilgileri uzun yıllar boyu edindiğim deneyimlerle bir araya getirmeye çalıştım. Web tasarımı ve web programlama dersleri verirken Türkçe kaynak eksikliğinden yakınan biri olarak ilgililere fayda sağlayacağı düşüncesindeyim. Basit, sade bir anlatıma özen gösterdim ve bazı içerikleri videolarla desteklemeye çalıştım.
 
-Bu kursun amacı, önlisans, lisans ve yüksek lisans seviyesinde verilen web tasarım dersleri için bir kaynak oluşturmaktır. Kurs toplam 5 ana başlık altında 25 alt başlıktan oluşmaktadır. Kurs içeriği;
+Bu kursun amacı, önlisans, lisans ve yüksek lisans seviyesinde verilen web tasarım dersleri için bir kaynak oluşturmaktır. Kurs toplam 5 ana başlık altında 25 alt başlıktan oluşmaktadır. Bu başlıklar altında toplam 173 anlatım bulunmaktadır. Kurs içeriği;
 
 * [Bölüm 01. Giriş](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
-    - Ders 01. Temel kavramlar
-        - Where Do I Start?
-	    - It Takes a Village (Website Creation Roles)
-	    - Gearing Up for Web Design
-	    - What You’ve Learned
+    - Ders 01. Başlarken
+        - Nerden başlamalı?
+	    - It Takes a Village (Website Creation Roles) - Web sitesi yaparken görev tanımları, web bir takım çalışmasıdır
+	    - Gearing Up for Web Design - Web tasarımı için dişliler
+	    - What You’ve Learned - Ne Öğrendiniz?
     - Ders 02. Web siteleri nasıl çalışır?
-        - The Internet Versus the Web
-        - Serving Up Your Information
-        - A Word About Browsers
-        - Web Page Addresses (URLs)
-        - The Anatomy of a Web Page
-        - Putting It All Together
+        - İnternet vs. Web
+        - Serving Up Your Information - Bilgilerinizi Sunmak
+        - Web tarayıcıları
+        - Web Page Addresses (URLs) - Web Sayfası Adresleri (URL'ler)
+        - Web sayfasının anatomisi
+        - Putting It All Together -  Hepsini bir araya koy
     - Ders 03. Tasarımcıların bilmesi gereken detaylar
-        - A Multitude of Devices
-	    - Sticking with the Standards
-	    - Progressive Enhancement
-	    - Responsive Web Design
-	    - One Web for All (Accessibility)
-	    - The Need for Speed (Site Performance)
+        - A Multitude of Devices - Çok Sayıda Cihaz
+	    - Web standartlarına uymak
+	    - Progressive Enhancement - Aşamalı Geliştirme
+	    - Duyarlı Web Tasarımı - Responsive Web Design
+	    - Erişilebilirlik - Herkes için İnternet
+	    - Site performansı
 * [Bölüm 02. HTML](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
     - Ders 04. Basit bir HTML sayfası
-        - A Web Page, Step-By-Step
-        - Launch a Text Editor
+        - A Web Page, Step-By-Step  - Adım adım bir web sayfası
+        - Launch a Text Editor - Geliştirme ortamı seçimi, (IDE, editör, metin düzenleyicisi, kod düzenleyiciler)
         - Step 1: Start with Content
         - Step 2: Give the HTML Document Structure
         - Step 3: Identify Text Elements
