@@ -11,42 +11,42 @@ Bu kursta, birçok kaynaktan derlediğim bilgileri uzun yıllar boyu edindiğim 
 Bu kursun amacı, önlisans, lisans ve yüksek lisans seviyesinde verilen web tasarım dersleri için bir kaynak oluşturmaktır. Kurs toplam 5 ana başlık altında 25 alt başlıktan oluşmaktadır. Bu başlıklar altında toplam 173 konu anlatımı bulunmaktadır. Kurs içeriği;
 
 * [Bölüm 01. Giriş](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
-    - Ders 01. Başlarken
-        - Nerden başlamalı?
-	    - It Takes a Village (Website Creation Roles) - Web sitesi yaparken görev tanımları, web bir takım çalışmasıdır
+    - Ders 01. Başlarken - Tanışma
+        - Nereden başlamalı?
+	    - Web tasarımı bir takım işidir It Takes a Village (Website Creation Roles) - Web sitesi yaparken görev tanımları, web bir takım çalışmasıdır
 	    - Gearing Up for Web Design - Web tasarımı için dişliler
 	    - What You’ve Learned - Ne Öğrendiniz?
     - Ders 02. Web siteleri nasıl çalışır?
         - İnternet vs. Web
-        - Serving Up Your Information - Bilgilerinizi Sunmak
+        - Bilgilerinizi Sunmak - Serving Up Your Information
         - Web tarayıcıları
-        - Web Page Addresses (URLs) - Web Sayfası Adresleri (URL'ler)
+        - Web sayfası adresleri (URL'ler)
         - Web sayfasının anatomisi
-        - Putting It All Together -  Hepsini bir araya koy
+        - Hepsini bir araya koy - Putting It All Together
     - Ders 03. Tasarımcıların bilmesi gereken detaylar
         - A Multitude of Devices - Çok Sayıda Cihaz
 	    - Web standartlarına uymak
-	    - Progressive Enhancement - Aşamalı Geliştirme
-	    - Duyarlı Web Tasarımı - Responsive Web Design
+	    - Aşamalı Geliştirme - Progressive Enhancement
+	    - Duyarlı Web Tasarımı (Responsive Web Design)
 	    - Erişilebilirlik - Herkes için İnternet
 	    - Site performansı
 * [Bölüm 02. HTML](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
     - Ders 04. Basit bir HTML sayfası
-        - A Web Page, Step-By-Step  - Adım adım bir web sayfası
-        - Launch a Text Editor - Geliştirme ortamı seçimi, (IDE, editör, metin düzenleyicisi, kod düzenleyiciler)
-        - Step 1: Start with Content
-        - Step 2: Give the HTML Document Structure
-        - Step 3: Identify Text Elements
-        - Step 4: Add an Image
-        - Step 5: Change the Look with a Style Sheet
+        - Adım adım bir web sayfası
+        - Geliştirme ortamı seçimi
+        - Adım 1: Start with Content
+        - Adım 2: Give the HTML Document Structure
+        - Adım 3: Identify Text Elements
+        - Adım 4: Add an Image
+        - Adım 5: Change the Look with a Style Sheet
         - When Good Pages Go Bad
         - Validating Your Documents
         - Element Review: HTML Document Setup
     - Ders 05. Metinlerle çalışmak
-        - Paragraphs
-        - Headings
+        - Paragraflar
+        - Başlıklar
         - Thematic Breaks (Horizontal Rule)
-        - Lists
+        - Listeler
         - More Content Elements
         - Organizing Page Content
         - The Inline Element Roundup
@@ -95,15 +95,15 @@ Bu kursun amacı, önlisans, lisans ve yüksek lisans seviyesinde verilen web ta
         - Element Review: Embedded Media
 * [Bölüm 03. CSS](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
     - Ders 11. CSS’e giriş
-        - The Benefits of CSS
-        - How Style Sheets Work
+        - CSS'in faydaları (The Benefits of CSS)
+        - Stil belgeleri nasıl çalışır? (How Style Sheets Work)
         - The Big Concepts
         - CSS Units of Measurement
         - Developer Tools Right in Your Browser
         - Moving Forward with CSS
     - Ders 12. Metin öğelerini biçimlendirme
         - Basic Font Properties
-        - Advanced Typography with CSS3
+        - CSS3 ile ileri tipografi (Advanced Typography with CSS3)
         - Changing Text Color
         - A Few More Selector Types
         - Text Line Adjustments
@@ -114,9 +114,9 @@ Bu kursun amacı, önlisans, lisans ve yüksek lisans seviyesinde verilen web ta
         - Changing List Bullets and Numbers
         - CSS Review: Font and Text Properties
     - Ders 13. Renkler ve arka plan özellikleri
-        - Specifying Color Values
-        - Foreground Color
-        - Background Color
+        - Renk değerlerini belirleme - Specifying Color Values
+        - Ön plan rengi - Foreground Color
+        - Arka plan rengi - Background Color
         - Clipping the Background
         - Playing with Opacity
         - Pseudo-Class Selectors
@@ -125,15 +125,15 @@ Bu kursun amacı, önlisans, lisans ve yüksek lisans seviyesinde verilen web ta
         - Background Images
         - The Shorthand background Property
         - Like a Rainbow (Gradients)
-        - Finally, External Style Sheets
+        - Finally, External Style Sheets (Harici Stil Öğeleri)
         - Wrapping It Up
         - CSS Review: Color and Background Properties
     - Ders 14. Sınır öğeleri ile çalışmak
         - The Element Box
         - Specifying Box Dimensions
         - Padding
-        - Borders
-        - Margins
+        - Border'lar
+        - Margins 
         - Assigning Display Types
         - Box Drop Shadows
         - CSS Review: Box Properties
@@ -196,7 +196,7 @@ Bu kursun amacı, önlisans, lisans ve yüksek lisans seviyesinde verilen web ta
     - Ders 23. Web için resim
         - Image Sources
         - Meet the Formats
-        - Image Size and Resolution - Resim boyutu ve çözünürlüğü
+        - Resim boyutu ve çözünürlüğü
         - Image Asset Strategy
         - Favicon nedir?
         - Summing Up Images
@@ -218,7 +218,7 @@ Bu kursun içeriğini bitirdiğinizde temel HTML bilgisine ve HTML'nin son sür�
 
 # Haftalık Online Buluşmalar
 
-Bilgilerinizi taze tutmak, aklınıza takılanları sorabilmeniz için her Cumartesi saat 14:00'da [Zoom](https://zoom.us) (sınırlı katılım) ve [YouTube](https://youtube.com) (herkese açık) üzerinden katılabileceğiniz yaklaşık 1 saatlik online soru-cevap etkinliği gerçekleştireceğiz.
+Bilgilerinizi taze tutmak, aklınıza takılanları sorabilmeniz için her Cumartesi saat 14:00'da [Zoom](https://zoom.us) (sınırlı katılım) ~~ve [YouTube](https://youtube.com) (herkese açık)~~ üzerinden katılabileceğiniz yaklaşık 1 saatlik online soru-cevap etkinliği gerçekleştireceğiz.
 
 * [Zoom kurulumu hakkında bilgi](https://zoom.us)
 * [YouTube kanalı](https://youtube.com)
@@ -257,4 +257,4 @@ Bilgilerinizi taze tutmak, aklınıza takılanları sorabilmeniz için her Cumar
 * [unDraw](https://undraw.co/)
 * [Whimsical](https://whimsical.com/)
 
-*Son güncelleme: 02 Şubat 2020*
+*Son güncelleme: 01 Nisan 2020*
