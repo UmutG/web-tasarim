@@ -8,23 +8,22 @@ Proje dosyalarına [bu linkten](https://github.com/hknyldrm/web-tasarim) erişeb
 
 Bu kursta, birçok kaynaktan derlediğim bilgileri uzun yıllar boyu edindiğim deneyimlerle bir araya getirmeye çalıştım. Web tasarımı ve web programlama dersleri verirken düzenli Türkçe kaynak eksikliğinden yakınan biri olarak ilgililere fayda sağlayacağı düşüncesindeyim. Basit, sade bir anlatıma özen gösterdim ve içerikleri videolarla desteklemeye çalıştım.
 
-Bu kursun amacı, önlisans, lisans ve yüksek lisans seviyesinde verilen web tasarım dersleri için bir kaynak oluşturmaktır. Kurs toplam 5 ana başlık altında 25 alt başlıktan oluşmaktadır. Bu başlıklar altında toplam 173 konu anlatımı bulunmaktadır. Kurs içeriği;
+Bu kursun amacı, önlisans, lisans ve yüksek lisans seviyesinde verilen web tasarım dersleri için bir kaynak oluşturmaktır. Kurs toplam 5 ana başlık altında 25 alt başlıktan oluşmaktadır. Bu başlıklar altında toplam 150+ konu anlatımı bulunmaktadır. Kurs içeriği;
 
 * [Bölüm 01. Giriş](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
     - Ders 01. Başlarken - Tanışma
         - Nereden başlamalı?
-	    - Web tasarımı bir takım işidir It Takes a Village (Website Creation Roles) - Web sitesi yaparken görev tanımları, web bir takım çalışmasıdır
-	    - Gearing Up for Web Design - Web tasarımı için dişliler
-	    - What You’ve Learned - Ne Öğrendiniz?
+	    - Web tasarımı bir takım işidir
+	    - Web tasarımı için ihtiyacımız olanlar
     - Ders 02. Web siteleri nasıl çalışır?
         - İnternet vs. Web
-        - Bilgilerinizi Sunmak - Serving Up Your Information
+        - Bilmemiz gereken bazı kavramlar
         - Web tarayıcıları
         - Web sayfası adresleri (URL'ler)
         - Web sayfasının anatomisi
-        - Hepsini bir araya koy - Putting It All Together
+        - Yani özetle, web sayfası şu şekilde çalışır
     - Ders 03. Tasarımcıların bilmesi gereken detaylar
-        - A Multitude of Devices - Çok Sayıda Cihaz
+        - Ziyaretçilerinizin kullandığı cihazlar 
 	    - Web standartlarına uymak
 	    - Aşamalı Geliştirme - Progressive Enhancement
 	    - Duyarlı Web Tasarımı (Responsive Web Design)
