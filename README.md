@@ -25,18 +25,18 @@ Bu kursun amacı, önlisans, lisans ve yüksek lisans seviyesinde verilen web ta
     - Ders 03. Tasarımcıların bilmesi gereken detaylar
         - Ziyaretçilerinizin kullandığı cihazlar 
 	    - Web standartlarına uymak
-	    - Aşamalı Geliştirme - Progressive Enhancement
-	    - Duyarlı Web Tasarımı (Responsive Web Design)
+	    - Aşamalı geliştirme (Progressive enhancement)
+	    - Duyarlı web tasarımı (Responsive web design)
 	    - Erişilebilirlik - Herkes için İnternet
 	    - Site performansı
-* [Bölüm 02. HTML](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
+* [Bölüm 02. HTML](https://github.com/hknyldrm/web-tasarim/tree/master/02-html)
     - Ders 04. Basit bir HTML sayfası
         - Adım adım bir web sayfası
         - Geliştirme ortamı seçimi
         - Adım 1: Start with Content
         - Adım 2: Give the HTML Document Structure
         - Adım 3: Identify Text Elements
-        - Adım 4: Add an Image
+        - Adım 4: Resim eklemek
         - Adım 5: Change the Look with a Style Sheet
         - When Good Pages Go Bad
         - Validating Your Documents
@@ -92,7 +92,7 @@ Bu kursun amacı, önlisans, lisans ve yüksek lisans seviyesinde verilen web ta
         - Video and Audio
         - Canvas
         - Element Review: Embedded Media
-* [Bölüm 03. CSS](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
+* [Bölüm 03. CSS](https://github.com/hknyldrm/web-tasarim/tree/master/03-css)
     - Ders 11. CSS’e giriş
         - CSS'in faydaları (The Benefits of CSS)
         - Stil belgeleri nasıl çalışır? (How Style Sheets Work)
@@ -177,7 +177,7 @@ Bu kursun amacı, önlisans, lisans ve yüksek lisans seviyesinde verilen web ta
         - Build Tools (Grunt and Gulp)
         - Version Control with Git and GitHub
         - Conclusion
-* [Bölüm 04. JS](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
+* [Bölüm 04. JS](https://github.com/hknyldrm/web-tasarim/tree/master/04-js)
     - Ders 21. Javascripte giriş
         - What Is JavaScript?
         - Adding JavaScript to a Page
@@ -191,7 +191,7 @@ Bu kursun amacı, önlisans, lisans ve yüksek lisans seviyesinde verilen web ta
         - Polyfills
         - JavaScript Libraries
         - Big Finish
-* [Bölüm 05. Webte kullanılan görseller](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
+* [Bölüm 05. Webte kullanılan görseller](https://github.com/hknyldrm/web-tasarim/tree/master/05-web-images)
     - Ders 23. Web için resim
         - Image Sources
         - Meet the Formats
