@@ -31,37 +31,37 @@ Bu kursun amacı, önlisans, lisans ve yüksek lisans seviyesinde verilen web ta
 	    - Site performansı
 * [Bölüm 02. HTML](https://github.com/hknyldrm/web-tasarim/tree/master/02-html)
     - Ders 04. Basit bir HTML sayfası
-        - Adım adım bir web sayfası
-        - Geliştirme ortamı seçimi
-        - Adım 1: Start with Content
-        - Adım 2: Give the HTML Document Structure
-        - Adım 3: Identify Text Elements
-        - Adım 4: Resim eklemek
-        - Adım 5: Change the Look with a Style Sheet
-        - When Good Pages Go Bad
-        - Validating Your Documents
-        - Element Review: HTML Document Setup
+        - Adım Adım Bir Web Sayfası
+        - Geliştirme Ortamı Seçimi
+        - Adım 1: İçerik ile Başlamak
+        - Adım 2: HTML Dökümanının Yapısını Oluşturmak
+        - Adım 3: Yazı Elementlerini Tanımak
+        - Adım 4: Resim Eklemek
+        - Adım 5: Cascade Style Sheet (CSS) ile Görünümü Değiştirmek
+        - Sayfalar Kötüye Gittiğinde Yapılacaklar
+        - Dökümanınızı Doğrulamak
+        - Gözden Geçirelim: HTML Dökümanını Oluşturmak
     - Ders 05. Metinlerle çalışmak
         - Paragraflar
         - Başlıklar
-        - Thematic Breaks (Horizontal Rule)
+        - Temasal Aralar (Yatay Kuralı)
         - Listeler
-        - More Content Elements
-        - Organizing Page Content
-        - The Inline Element Roundup
-        - Generic Elements (div and span)
-        - Improving Accessibility with ARIA
-        - Character Escapes
-        - Putting It All Together
-        - Element Review: Text Elements    
+        - Daha Fazla İçerik Elementleri
+        - Sayfa İçeriğini Organize Etmek
+        - Satıriçi Elementine Bakış
+        - Genel Elementler (div ve span)
+        - ARIA ile Erişebilirliği Arttırma
+        - Karakter Kaçışları
+        - Herşeyi Toparlayalım
+        - Gözden Geçirelim: Yazı Elementleri    
     - Ders 06. Link ekleme
-        - The href Attribute
-        - Linking to Pages on the Web
+        - href Niteliği
+        - Web Üzerinde Sayfala Bağlantıları
         - Linking Within Your Own Site
-        - Targeting a New Browser Window
-        - Mail Links
-        - Telephone Links
-        - Element Review: Links    
+        - Yeni Tarayıcı Sekmesi Hedeflemek
+        - Mail Bağlantıları
+        - Telefon Bağlantıları
+        - Gözden Geçirelim: Bağlantılar
     - Ders 07. Resim ekleme
         - First, a Word on Image Formats
         - The img Element
