@@ -12,212 +12,212 @@ Bu kursun amacı, önlisans, lisans ve yüksek lisans seviyesinde verilen web ta
 
 * [Bölüm 01. Giriş](https://github.com/hknyldrm/web-tasarim/tree/master/01-giris)
     - Ders 01. Başlarken - Tanışma
-        - Nereden başlamalı?
-	    - Web tasarımı bir takım işidir
-	    - Web tasarımı için ihtiyacımız olanlar
-    - Ders 02. Web siteleri nasıl çalışır?
+        - Nereden Başlamalı?
+	    - Web Tasarımı Bir Takım İşidir
+	    - Web Tasarımı İçin İhtiyacımız Olanlar
+    - Ders 02. Web Siteleri Nasıl Çalışır?
         - İnternet vs. Web
-        - Bilmemiz gereken bazı kavramlar
-        - Web tarayıcıları
-        - Web sayfası adresleri (URL'ler)
-        - Web sayfasının anatomisi
-        - Yani özetle, web sayfası şu şekilde çalışır
-    - Ders 03. Tasarımcıların bilmesi gereken detaylar
-        - Ziyaretçilerinizin kullandığı cihazlar 
-	    - Web standartlarına uymak
-	    - Aşamalı geliştirme (Progressive enhancement)
-	    - Duyarlı web tasarımı (Responsive web design)
+        - Bilmemiz Gereken Bazı Kavramlar
+        - Web Tarayıcıları
+        - Web Sayfası Adresleri (URL'ler)
+        - Web Sayfasının Anatomisi
+        - Yani Özetle, Web Sayfası Şu Şekilde Çalışır
+    - Ders 03. Tasarımcıların Bilmesi Gereken Detaylar
+        - Ziyaretçilerinizin Kullandığı Cihazlar 
+	    - Web Standartlarına Uymak
+	    - Aşamalı Geliştirme (Progressive Enhancement)
+	    - Duyarlı web tasarımı (Responsive Web Design)
 	    - Erişilebilirlik - Herkes için İnternet
-	    - Site performansı
+	    - Site Performansı
 * [Bölüm 02. HTML](https://github.com/hknyldrm/web-tasarim/tree/master/02-html)
-    - Ders 04. Basit bir HTML sayfası
-        - Adım adım bir web sayfası
-        - Geliştirme ortamı seçimi
-        - Adım 1: Start with Content
-        - Adım 2: Give the HTML Document Structure
-        - Adım 3: Identify Text Elements
-        - Adım 4: Resim eklemek
-        - Adım 5: Change the Look with a Style Sheet
-        - When Good Pages Go Bad
-        - Validating Your Documents
-        - Element Review: HTML Document Setup
-    - Ders 05. Metinlerle çalışmak
+    - Ders 04. Basit Bir HTML Sayfası
+        - Adım Adım Bir Web Sayfası
+        - Geliştirme Ortamı Seçimi
+        - Adım 1: İçerik ile Başlama
+        - Adım 2: HTML Dökümanının Yapısını Oluşturma
+        - Adım 3: Yazı Elemanlarını Tanıma
+        - Adım 4: Resim Ekleme
+        - Adım 5: Cascade Style Sheet (CSS) ile Görünümü Değiştirme
+        - Sayfalar Kötüye Gittiğinde Yapılacaklar
+        - Dökümanınızı Doğrulama
+        - Gözden Geçirelim: HTML Dökümanını Oluşturma
+    - Ders 05. Metinlerle Çalışmak
         - Paragraflar
         - Başlıklar
-        - Thematic Breaks (Horizontal Rule)
+        - Temasal Aralar (Yatay Kuralı)
         - Listeler
-        - More Content Elements
-        - Organizing Page Content
-        - The Inline Element Roundup
-        - Generic Elements (div and span)
-        - Improving Accessibility with ARIA
-        - Character Escapes
-        - Putting It All Together
-        - Element Review: Text Elements    
-    - Ders 06. Link ekleme
-        - The href Attribute
-        - Linking to Pages on the Web
-        - Linking Within Your Own Site
-        - Targeting a New Browser Window
-        - Mail Links
-        - Telephone Links
-        - Element Review: Links    
-    - Ders 07. Resim ekleme
-        - First, a Word on Image Formats
-        - The img Element
-        - Adding SVG Images
-        - Responsive Image Markup
-        - Whew! We’re Finished
-        - Element Review: Images
+        - Daha Fazla İçerik Elemanları
+        - Sayfa İçeriğini Organize Etmek
+        - Satıriçi Elemanına Bakış
+        - Genel Elemanlar (div ve span)
+        - ARIA ile Erişebilirliği Arttırma
+        - Karakter Kaçışları
+        - Herşeyi Toparlayalım
+        - Gözden Geçirelim: Yazı Elemanları    
+    - Ders 06. Link Ekleme
+        - href Niteliği
+        - Web Üzerinde Sayfa Bağlantıları
+        - Sitenizde Bağlantı Yapma
+        - Yeni Tarayıcı Sekmesi Hedefleme
+        - Mail Bağlantıları
+        - Telefon Bağlantıları
+        - Gözden Geçirelim: Bağlantılar
+    - Ders 07. Resim Ekleme
+        - Başlayalım, Resimler Üzerine Yazı Yazmak
+        - img Elemanı
+        - SVG Resimleri Ekleme
+        - Duyarlı (Responsive) Resim Biçimlendirme
+        - Wow! Tamamladık!
+        - Eleman İncelemesi: img
     - Ders 08. Tablolar
-        - How to Use Tables
-        - Minimal Table Structure
-        - Table Headers
-        - Spanning Cells
-        - Table Accessibility
-        - Row and Column Groups
-        - Wrapping Up Tables
-        - Element Review: Tables    
-    - Ders 09. Form elemanları
-        - How Forms Work
-        - The form Element
-        - Variables and Content
-        - The Great Form Control Roundup
-        - Form Accessibility Features
-        - Form Layout and Design
-        - Element Review: Forms
-    - Ders 10. Gömülü (embed) medya öğeleri
-        - Window-In-A-Window (iframe)
-        - Multipurpose Embedder (object)
-        - Video and Audio
-        - Canvas
-        - Element Review: Embedded Media
+        - Tablo Nasıl Kullanılır?
+        - Asgari Tablo Yapısı
+        - Tablo Başlıkları
+        - Span Hücresi
+        - Tablo Erişilebilirliği
+        - Satır ve Sütün Grupları
+        - Tabloları Toparlayalım
+        - Eleman İncelemesi: Table    
+    - Ders 09. Form Elemanları
+        - Formlar Nasıl Çalışır?
+        - form Elemanı
+        - Değişkenler ve İçerik
+        - Büyük Form Kontrol Grubu
+        - Form Erişilebilirlik Özelliği
+        - Form Yerleşimi ve Tasarımı
+        - Eleman İncelemesi: Form
+    - Ders 10. Gömülü (embed) Medya Öğeleri
+        - Pencere İçinde Pencere (iframe)
+        - Çok Amaçlı Gömme İşlemi (object)
+        - Video ve Ses
+        - Kanvaz/Tuval (Canvas)
+        - Eleman İncelemesi: Gömülü Medya
 * [Bölüm 03. CSS](https://github.com/hknyldrm/web-tasarim/tree/master/03-css)
-    - Ders 11. CSS’e giriş
-        - CSS'in faydaları (The Benefits of CSS)
-        - Stil belgeleri nasıl çalışır? (How Style Sheets Work)
-        - The Big Concepts
-        - CSS Units of Measurement
-        - Developer Tools Right in Your Browser
-        - Moving Forward with CSS
-    - Ders 12. Metin öğelerini biçimlendirme
-        - Basic Font Properties
-        - CSS3 ile ileri tipografi (Advanced Typography with CSS3)
-        - Changing Text Color
-        - A Few More Selector Types
-        - Text Line Adjustments
-        - Underlines and Other “Decorations”
-        - Changing Capitalization
-        - Spaced Out
-        - Text Shadow
-        - Changing List Bullets and Numbers
-        - CSS Review: Font and Text Properties
-    - Ders 13. Renkler ve arka plan özellikleri
-        - Renk değerlerini belirleme - Specifying Color Values
-        - Ön plan rengi - Foreground Color
-        - Arka plan rengi - Background Color
-        - Clipping the Background
-        - Playing with Opacity
-        - Pseudo-Class Selectors
-        - Pseudo-Element Selectors
-        - Attribute Selectors
-        - Background Images
-        - The Shorthand background Property
-        - Like a Rainbow (Gradients)
-        - Finally, External Style Sheets (Harici Stil Öğeleri)
-        - Wrapping It Up
-        - CSS Review: Color and Background Properties
-    - Ders 14. Sınır öğeleri ile çalışmak
-        - The Element Box
-        - Specifying Box Dimensions
+    - Ders 11. CSS’e Giriş
+        - CSS'in Faydaları
+        - Stil Belgeleri Nasıl Çalışır?
+        - Büyük Konsept
+        - CSS Ölçü Birimleri
+        - Geliştirici Araçları Tarayıcınızda
+        - CSS ile İlerleyelim
+    - Ders 12. Metin Öğelerini Biçimlendirme
+        - Basit Yazı Tipi Nitelikleri
+        - CSS3 ile İleri Tipografi
+        - Yazı Rengini Değiştirme
+        - Birkaç Seçici Türü Daha
+        - Yazı Satırı Ayarlama
+        - Altı Çizili ve Diğer “Dekorasyonlar”
+        - Büyük Harf Kullanımını Değiştirme
+        - Aralıklı Yapma
+        - Yazı Gölgesi
+        - Madde İşaretlerini ve Numaraları Değiştirme
+        - CSS İncelemesi: Yazı Tipi ve Yazı Nitelikleri
+    - Ders 13. Renkler ve Arka Plan Özellikleri
+        - Renk Değerlerini Belirleme
+        - Ön Plan (Foreground) Rengi
+        - Arka Plan (Background) Rengi
+        - Arka Planı Kırpma
+        - Opaklık ile Oynama
+        - Pseudo-Class (Sahte Sınıf) Seçicileri
+        - Pseudo Elemanları Seçicileri
+        - Özellik Seçicileri
+        - Arka Plan Resimleri
+        - Steno Arkaplan Özelliği
+        - Bir Gökkuşağı Gibi (Gradyanlar - Gradients)
+        - Sonunda! Harici Stil Öğeleri (External Style Sheets)
+        - Toparlayalım
+        - CSS İncelemesi: Renk ve Arka Plan Nitelikleri
+    - Ders 14. Sınır Öğeleri ile Çalışmak
+        - Element Kutuları
+        - Kutu Boyutlarını Belirlemek
         - Padding
         - Border'lar
-        - Margins 
-        - Assigning Display Types
-        - Box Drop Shadows
-        - CSS Review: Box Properties
-    - Ders 15. Yüzen elemanlar ve pozisyonları
-        - Normal Flow
+        - Margin'ler 
+        - Görüntü Türlerini Belirlemek
+        - Kutu Gölgeleri
+        - CSS İncelemesi: Kutu Özellikleri
+    - Ders 15. Yüzen Elemanlar ve Pozisyonları
+        - Normal Akış
         - Floating 
-        - Fancy Text Wrap with CSS Shapes
-        - Positioning Basics
-        - Relative Positioning
-        - Absolute Positioning
-        - Fixed Positioning
-        - CSS Review: Floating and Positioning Properties
-    - Ders 16. CSS layoutları yaratmak
-        - Flexible Boxes with CSS Flexbox
-        - CSS Grid Layout
-        - CSS Review: Layout Properties
-    - Ders 17. Responsive web tasarım
-        - Why RWD?
-        - The Responsive Recipe
-        - Choosing Breakpoints
-        - Designing Responsively
-        - A Few Words About Testing
-        - More RWD Resources
-    - Ders 18. Geçişler, dönüşümler ve animasyon
-        - Ease-y Does It (CSS Transitions)
-        - CSS Transforms
-        - Keyframe Animation
-        - Wrapping Up
-        - CSS Review: Transitions, Transforms, and Animation
-    - Ders 19. Diğer CSS teknikleri
-        - Styling Forms
-        - Styling Tables
-        - A Clean Slate (Reset and Normalize.css)
-        - Image Replacement Techniques
-        - CSS Sprites
-        - CSS Feature Detection
-        - Wrapping Up Style Sheets
-        - CSS Review: Table Properties
-    - Ders 20. Modern web geliştirme araçları
-        - Getting Cozy with the Command Line
-        - CSS Power Tools (Processors)
-        - Build Tools (Grunt and Gulp)
-        - Version Control with Git and GitHub
-        - Conclusion
+        - CSS Şekilleriyle Süslü Metin Yapma
+        - Temel Pozisyonlamalar
+        - Relative Pozisyonlama
+        - Mutlak (Absolute) Pozisyonlama
+        - Sabit Pozisyonlama
+        - CSS İncelemesi: Floating ve Konumlandırma Özellikleri
+    - Ders 16. CSS Layout Yaratmak
+        - CSS Flexbox ile Esnek Kutular
+        - CSS Grid (Izgara) Düzeni
+        - CSS İncelemesi: Layout Özellikleri
+    - Ders 17. Responsive Web Tasarım
+        - Neden Responsive Web?
+        - Responsive Tarifi
+        - Kırılma Noktalarını Seçme
+        - Responsive Tasarım Yapma
+        - Test Hakkında Birkaç Kelime
+        - Daha Fazla Responsive Web Tasarımı Kaynağı
+    - Ders 18. Geçişler, Dönüşümler ve Animasyon
+        - Kolaylıkla Yapın (CSS Transitions)
+        - CSS Dönüşümleri
+        - Keyframe Animasyonu
+        - Toparlayalım
+        - CSS İncelemesi: Geçişler, Dönüşümler ve Animasyon
+    - Ders 19. Diğer CSS Teknikleri
+        - Formlara Stil Yapma
+        - Tablolara Stil Yapma
+        - Temiz Bir Seçenek (Sıfırlama ve Normalleştirme)
+        - Resim Yerleştirme Teknikleri
+        - CSS Perileri
+        - CSS Özellik Algılama
+        - Stil Sayfalarını Toparlayalım
+        - CSS İncelemesi: Tablo Özellikleri
+    - Ders 20. Modern Web Geliştirme Araçları
+        - Komut Satırı ile Ohh Çekin
+        - CSS Güç Araçları (İşlemciler)
+        - Yapı Araçları (Grunt ve Gulp)
+        - Git ve GitHub ile Sürüm Kontrolü
+        - Sonuç 
 * [Bölüm 04. JS](https://github.com/hknyldrm/web-tasarim/tree/master/04-js)
-    - Ders 21. Javascripte giriş
-        - What Is JavaScript?
-        - Adding JavaScript to a Page
-        - The Anatomy of a Script
-        - The Browser Object
-        - Events
-        - Putting It All Together
-        - Learning More About JavaScript
+    - Ders 21. JavaScript'e Giriş
+        - JavaScript Nedir?
+        - Sayfaya JavaScript Ekleme
+        - Bir Script Anatomisi
+        - Tarayıcı Nesnesi
+        - Etkinlikler (Event)
+        - Hepsini Bir Araya Toplayalım
+        - JavaScript Hakkında Daha Fazla Bilgi
     - Ders 22. Javascript
-        - Meet the DOM
+        - DOM ile Tanışın!
         - Polyfills
-        - JavaScript Libraries
-        - Big Finish
+        - JavaScript Kütüphaneleri
+        - Büyük Final
 * [Bölüm 05. Webte kullanılan görseller](https://github.com/hknyldrm/web-tasarim/tree/master/05-web-images)
-    - Ders 23. Web için resim
-        - Image Sources
-        - Meet the Formats
-        - Resim boyutu ve çözünürlüğü
-        - Image Asset Strategy
-        - Favicon nedir?
-        - Summing Up Images
-    - Ders 24. Resim öğeleri üretmek
-        - Saving Images in Web Formats
-        - Working with Transparency
-        - Responsive Image Production Tips
-        - Image Optimization
+    - Ders 23. Web İçin Resim
+        - Resim Kaynakları
+        - Formatlarla Tanışın
+        - Resim Boyutu ve Çözünürlüğü
+        - Resim Varlığı (Asseet) Stratejisi
+        - Favicon Nedir?
+        - Resimleri Toparlayalım
+    - Ders 24. Resim Öğeleri Üretmek
+        - Web Formatında Resim Kaydetme
+        - Şeffaf (Transparent) Yapma
+        - İpucu: Responsive Resim Yapma
+        - Resim Optimizasyonu
     - Ders 25. SVG
-        - Drawing with XML
-        - Features of SVG as XML
-        - SVG Tools
-        - SVG Production Tips
-        - Responsive SVGs
-        - Further SVG Exploration
-        - And...We’re Done!
+        - XML ile Çizmek
+        - XML Olarak SVG'nin Özellikleri
+        - SVG Araçları
+        - İpucu: SVG Yapma
+        - Responsive SVG'ler
+        - Keşfet: İleri SVG
+        - Veee... İşimiz Bitti!
 
 Bu kursun içeriğini bitirdiğinizde temel HTML bilgisine ve HTML'nin son sürümüne hakim olacaksınız. Bu sayede, kişisel basit bir web sitesi yapabilecek ya da mevcut bir web sitesini düzenleyebileceksiniz. Yine kurs sayesinde, CSS bilginizi artırabilir ve yaptığınız siteleri görsel olarak zenginleştirebilirsiniz. JavaScript dersleri ile de oluşturduğunuz web sitelerini özelleştirerek web sitesi ziyaretçilerinizle etkileşimler elde edebilirsiniz.
 
 # Haftalık Online Buluşmalar
 
-Bilgilerinizi taze tutmak, aklınıza takılanları sorabilmeniz için her Cumartesi saat 14:00'da [Zoom](https://zoom.us) (sınırlı katılım) ~~ve [YouTube](https://youtube.com) (herkese açık)~~ üzerinden katılabileceğiniz yaklaşık 1 saatlik online soru-cevap etkinliği gerçekleştireceğiz.
+Bilgilerinizi taze tutmak, aklınıza takılanları sorabilmeniz için her Cumartesi saat 14:00'da [Zoom](https://zoom.us) (sınırlı katılım) üzerinden katılabileceğiniz yaklaşık 1 saatlik online soru-cevap etkinliği gerçekleştireceğiz.
 
 * [Zoom kurulumu hakkında bilgi](https://zoom.us)
 * [YouTube kanalı](https://youtube.com)
@@ -251,9 +251,9 @@ Bilgilerinizi taze tutmak, aklınıza takılanları sorabilmeniz için her Cumar
 
 ## Katkı Verenler
 
-* Umut Geyik
+* [Umut Geyik](https://www.github.com/UmutG)
 * [Freepik](https://www.freepik.com/)
 * [unDraw](https://undraw.co/)
 * [Whimsical](https://whimsical.com/)
 
-*Son güncelleme: 01 Nisan 2020*
+*Son güncelleme: 17 Nisan 2020*
