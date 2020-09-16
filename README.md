@@ -56,7 +56,7 @@ Bu kursun amacı, önlisans, lisans ve yüksek lisans seviyesinde verilen web ta
         - Gözden Geçirelim: Yazı Elemanları    
     - Ders 06. Link Ekleme
         - href Niteliği
-        - Web Üzerinde Sayfala Bağlantıları
+        - Web Üzerinde Sayfa Bağlantıları
         - Sitenizde Bağlantı Yapma
         - Yeni Tarayıcı Sekmesi Hedefleme
         - Mail Bağlantıları
